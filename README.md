@@ -17,7 +17,7 @@ Features
 **Emotion-Based Music Recommendation:**
 * Maps detected emotions to music moods such as Happy, Sad, Energetic and Calm.
 * Uses content-based filtering and cosine similarity to match songs to user emotions.
-* Prioritizes personalized curation by analyzing ~600K tracks.
+* Prioritizes personalized curation by analyzing ~160K tracks.
 
 **Seamless Integration with Spotify API:**
 * Fetches song metadata and audio features dynamically.
